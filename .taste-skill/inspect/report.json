@@ -1,0 +1,3165 @@
+{
+ "url": "index.html",
+ "at": "2026-10-19T21:48:34.052Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 12,
+   "filled": [
+    0.44,
+    0.98,
+    0.83,
+    0.77,
+    0.74,
+    0.93,
+    0.96,
+    0.96,
+    0.96,
+    0.44,
+    0.15,
+    0.96
+   ],
+   "motion": {
+    "elements": 30,
+    "css": 30,
+    "transitions": 0,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 12550,
+     "screens": 13.9,
+     "words": 565,
+     "img": 12,
+     "video": 0,
+     "canvas": 0,
+     "svg": 1,
+     "sections": 7,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 12,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "WaterslideGirl.jpg",
+      "Waterslides.jpg",
+      "SDWP.jpg",
+      "Waterslides.jpg",
+      "WaterslideGirl.jpg",
+      "KidsPlaying.jpeg",
+      "LazyRiver.jpg",
+      "SplashPad.jpg"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "SPLASH DOWN",
+     "words": 2,
+     "chars": 11,
+     "lines": 2,
+     "size": 129.6,
+     "vw": 9,
+     "font": "Unbounded",
+     "weight": 800,
+     "tracking": -0.03,
+     "leading": 0.85,
+     "upper": true,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 1,
+     "top": 0,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "SPLASH DOWN",
+     "words": 2,
+     "lines": 2,
+     "size": 129.6,
+     "font": "Unbounded"
+    },
+    "headings": [
+     {
+      "text": "SPLASH DOWN",
+      "words": 2,
+      "chars": 11,
+      "lines": 2,
+      "size": 129.6,
+      "vw": 9,
+      "font": "Unbounded",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 0.85,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 1,
+      "top": 0,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "PRICED BY HOW TALL YOU ARE",
+      "words": 6,
+      "chars": 26,
+      "lines": 2,
+      "size": 68,
+      "vw": 4.7,
+      "font": "Unbounded",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.71,
+      "top": 2096,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "$20",
+      "words": 1,
+      "chars": 3,
+      "lines": 1,
+      "size": 68,
+      "vw": 4.7,
+      "font": "Unbounded",
+      "weight": 800,
+      "tracking": -0.04,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.12,
+      "top": 2600,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "PICK YOUR WAY DOWN",
+      "words": 4,
+      "chars": 18,
+      "lines": 2,
+      "size": 68,
+      "vw": 4.7,
+      "font": "Unbounded",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.53,
+      "top": 3282,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "NOON TO SIX",
+      "words": 3,
+      "chars": 11,
+      "lines": 1,
+      "size": 68,
+      "vw": 4.7,
+      "font": "Unbounded",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.47,
+      "top": 5610,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "LUNCH POOLSIDE",
+      "words": 2,
+      "chars": 14,
+      "lines": 1,
+      "size": 68,
+      "vw": 4.7,
+      "font": "Unbounded",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 8652,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "BEFORE YOU COME",
+      "words": 3,
+      "chars": 15,
+      "lines": 1,
+      "size": 68,
+      "vw": 4.7,
+      "font": "Unbounded",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.62,
+      "top": 10111,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "RESERVE",
+      "words": 1,
+      "chars": 7,
+      "lines": 1,
+      "size": 241.9,
+      "vw": 16.8,
+      "font": "Unbounded",
+      "weight": 800,
+      "tracking": -0.04,
+      "leading": 0.8,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 11194,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "SEE YOU AT THE GATE",
+      "words": 5,
+      "chars": 19,
+      "lines": 2,
+      "size": 68,
+      "vw": 4.7,
+      "font": "Unbounded",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.44,
+      "top": 11507,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "SPLASHDOWN",
+      "words": 1,
+      "chars": 10,
+      "lines": 1,
+      "size": 388.8,
+      "vw": 27,
+      "font": "Unbounded",
+      "weight": 800,
+      "tracking": -0.04,
+      "leading": 0.8,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.97,
+      "top": 12332,
+      "tag": "p",
+      "kind": "statement"
+     }
+    ],
+    "headingSummary": {
+     "count": 10,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 2,
+     "centered": 0,
+     "medianWords": 3,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Onest",
+       "share": 0.94,
+       "mono": false
+      },
+      {
+       "family": "Unbounded",
+       "share": 0.06,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      15,
+      17,
+      18,
+      24,
+      68,
+      130,
+      242,
+      389
+     ],
+     "sizeCount": 8,
+     "notLoaded": [],
+     "body": {
+      "font": "Onest",
+      "size": 17,
+      "leading": 1.5,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 9.1
+     },
+     "measureChars": 64,
+     "max": {
+      "size": 388.8,
+      "vw": 27,
+      "font": "Unbounded",
+      "text": "SplashDown"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.06,
+     "centerShare": 0.01,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#0b1d3a",
+     "bodyBgHsl": {
+      "h": 217,
+      "s": 0.68,
+      "l": 0.14
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#0b1d3a",
+       "top": 0,
+       "hsl": {
+        "h": 217,
+        "s": 0.68,
+        "l": 0.14
+       }
+      },
+      {
+       "color": "#2ec4e6",
+       "top": 1864,
+       "hsl": {
+        "h": 191,
+        "s": 0.79,
+        "l": 0.54
+       }
+      },
+      {
+       "color": "#1f5fbf",
+       "top": 3388,
+       "hsl": {
+        "h": 216,
+        "s": 0.72,
+        "l": 0.44
+       }
+      },
+      {
+       "color": "#ffd23f",
+       "top": 3388,
+       "hsl": {
+        "h": 46,
+        "s": 1,
+        "l": 0.62
+       }
+      },
+      {
+       "color": "#8dd85a",
+       "top": 3388,
+       "hsl": {
+        "h": 96,
+        "s": 0.62,
+        "l": 0.6
+       }
+      },
+      {
+       "color": "#e9eef1",
+       "top": 3388,
+       "hsl": {
+        "h": 202,
+        "s": 0.22,
+        "l": 0.93
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#0b1d3a",
+       "share": 0.52
+      },
+      {
+       "color": "#f2f5f7",
+       "share": 0.21
+      },
+      {
+       "color": "#b4c0d2",
+       "share": 0.13
+      },
+      {
+       "color": "#062135",
+       "share": 0.09
+      },
+      {
+       "color": "#ffd23f",
+       "share": 0.03
+      }
+     ],
+     "button": {
+      "bg": "#ffd23f",
+      "hsl": {
+       "h": 46,
+       "s": 1,
+       "l": 0.62
+      },
+      "fg": "#0b1d3a"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 7,
+     "inHero": 2,
+     "radius": 0,
+     "height": 44,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to tickets",
+      "Check your ticket price"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 12,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 6,
+       "iconTopped": false,
+       "rounded": false,
+       "top": 3388
+      }
+     ]
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.25
+     }
+    ],
+    "nav": {
+     "links": 0,
+     "fixed": false,
+     "height": 1800,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "onest",
+     "unbounded"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 12550,
+    "margins": {
+     "left": 28,
+     "right": 28
+    },
+    "sections": [
+     {
+      "sel": "div.ride__pin",
+      "tag": "div",
+      "top": 0,
+      "height": 1800,
+      "words": 2,
+      "media": 0,
+      "middle": 200,
+      "heading": {
+       "text": "Splash",
+       "size": 130,
+       "tag": "h1"
+      },
+      "left": 28,
+      "right": 28,
+      "textLeft": 28,
+      "textRight": 28,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": true
+     },
+     {
+      "sel": "section.ride__panel.ride__panel--open",
+      "tag": "section",
+      "top": 0,
+      "height": 900,
+      "words": 46,
+      "media": 1,
+      "middle": 358,
+      "heading": {
+       "text": "Tickets from $15, priced by height.",
+       "size": 24,
+       "tag": "p"
+      },
+      "left": 262,
+      "right": 0,
+      "textLeft": 262,
+      "textRight": 379,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.ride__panel.ride__panel--photo",
+      "tag": "section",
+      "top": 900,
+      "height": 900,
+      "words": 9,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 42,
+      "right": 1119,
+      "textLeft": 42,
+      "textRight": 1119,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#tickets.tickets",
+      "tag": "section",
+      "top": 1864,
+      "height": 1354,
+      "words": 112,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Priced by how tall you are",
+       "size": 68,
+       "tag": "h2"
+      },
+      "left": 28,
+      "right": 303,
+      "textLeft": 28,
+      "textRight": 303,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#rides.rides",
+      "tag": "section",
+      "top": 3218,
+      "height": 2160,
+      "words": 86,
+      "media": 6,
+      "middle": 3425,
+      "heading": {
+       "text": "Pick your way down",
+       "size": 68,
+       "tag": "h2"
+      },
+      "left": 28,
+      "right": 0,
+      "textLeft": 28,
+      "textRight": -3714,
+      "fullBleed": true,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": true
+     },
+     {
+      "sel": "div.day__intro",
+      "tag": "div",
+      "top": 5578,
+      "height": 143,
+      "words": 33,
+      "media": 0,
+      "middle": 281,
+      "heading": {
+       "text": "Noon to six",
+       "size": 68,
+       "tag": "h2"
+      },
+      "left": 28,
+      "right": 146,
+      "textLeft": 28,
+      "textRight": 146,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.day__seq",
+      "tag": "div",
+      "top": 5720,
+      "height": 2700,
+      "words": 30,
+      "media": 3,
+      "middle": 0,
+      "heading": null,
+      "left": 42,
+      "right": 1049,
+      "textLeft": 42,
+      "textRight": 1049,
+      "fullBleed": true,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": true
+     },
+     {
+      "sel": "section#food.food",
+      "tag": "section",
+      "top": 8420,
+      "height": 1459,
+      "words": 119,
+      "media": 0,
+      "middle": 180,
+      "heading": {
+       "text": "Lunch poolside",
+       "size": 68,
+       "tag": "h2"
+      },
+      "left": 28,
+      "right": 28,
+      "textLeft": 28,
+      "textRight": 28,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.faq",
+      "tag": "section",
+      "top": 9879,
+      "height": 992,
+      "words": 189,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Before you come",
+       "size": 68,
+       "tag": "h2"
+      },
+      "left": 28,
+      "right": 410,
+      "textLeft": 28,
+      "textRight": 410,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "a#parties.reserve",
+      "tag": "a",
+      "top": 10871,
+      "height": 540,
+      "words": 19,
+      "media": 0,
+      "middle": 433,
+      "heading": {
+       "text": "Pavilions for 60, 150 or 300 guests, from $125 on ",
+       "size": 24,
+       "tag": "span"
+      },
+      "left": 28,
+      "right": 28,
+      "textLeft": 28,
+      "textRight": 509,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.close",
+      "tag": "footer",
+      "top": 11411,
+      "height": 1139,
+      "words": 62,
+      "media": 1,
+      "middle": 7,
+      "heading": {
+       "text": "See you at the gate",
+       "size": 68,
+       "tag": "h2"
+      },
+      "left": 28,
+      "right": 28,
+      "textLeft": 28,
+      "textRight": 28,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "SPLASH DOWN",
+      "size": 130,
+      "top": 0,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 28,
+      "n": 8
+     },
+     {
+      "x": 496,
+      "n": 6
+     },
+     {
+      "x": 262,
+      "n": 1
+     },
+     {
+      "x": 282,
+      "n": 1
+     },
+     {
+      "x": 299,
+      "n": 1
+     },
+     {
+      "x": 381,
+      "n": 1
+     },
+     {
+      "x": 847,
+      "n": 1
+     },
+     {
+      "x": 878,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 20,
+    "bodySize": 17,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0.13,
+    "voidBox": {
+     "x": 660,
+     "y": 180,
+     "w": 300,
+     "h": 540
+    }
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 12,
+   "filled": [
+    0.38,
+    0.98,
+    0.69,
+    0.7,
+    0.93,
+    0.97,
+    0.98,
+    0.98,
+    0.98,
+    0.36,
+    0.7,
+    0.99
+   ],
+   "motion": {
+    "elements": 30,
+    "css": 30,
+    "transitions": 0,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 13115,
+     "screens": 12.8,
+     "words": 561,
+     "img": 12,
+     "video": 0,
+     "canvas": 0,
+     "svg": 1,
+     "sections": 7,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 12,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "WaterslideGirl.jpg",
+      "Waterslides.jpg",
+      "SDWP.jpg",
+      "Waterslides.jpg",
+      "WaterslideGirl.jpg",
+      "KidsPlaying.jpeg",
+      "LazyRiver.jpg",
+      "SplashPad.jpg"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "SPLASH DOWN",
+     "words": 2,
+     "chars": 11,
+     "lines": 2,
+     "size": 69.1,
+     "vw": 9,
+     "font": "Unbounded",
+     "weight": 800,
+     "tracking": -0.03,
+     "leading": 0.85,
+     "upper": true,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 1,
+     "top": 0,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "SPLASH DOWN",
+     "words": 2,
+     "lines": 2,
+     "size": 69.1,
+     "font": "Unbounded"
+    },
+    "headings": [
+     {
+      "text": "SPLASH DOWN",
+      "words": 2,
+      "chars": 11,
+      "lines": 2,
+      "size": 69.1,
+      "vw": 9,
+      "font": "Unbounded",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 0.85,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 1,
+      "top": 0,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "PRICED BY HOW TALL YOU ARE",
+      "words": 6,
+      "chars": 26,
+      "lines": 2,
+      "size": 46.9,
+      "vw": 6.1,
+      "font": "Unbounded",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.91,
+      "top": 2264,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "$20",
+      "words": 1,
+      "chars": 3,
+      "lines": 1,
+      "size": 46.9,
+      "vw": 6.1,
+      "font": "Unbounded",
+      "weight": 800,
+      "tracking": -0.04,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.15,
+      "top": 2740,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "PICK YOUR WAY DOWN",
+      "words": 4,
+      "chars": 18,
+      "lines": 2,
+      "size": 46.9,
+      "vw": 6.1,
+      "font": "Unbounded",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.69,
+      "top": 3366,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "NOON TO SIX",
+      "words": 3,
+      "chars": 11,
+      "lines": 2,
+      "size": 46.9,
+      "vw": 6.1,
+      "font": "Unbounded",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.47,
+      "top": 5911,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "LUNCH POOLSIDE",
+      "words": 2,
+      "chars": 14,
+      "lines": 1,
+      "size": 46.9,
+      "vw": 6.1,
+      "font": "Unbounded",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 9348,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "BEFORE YOU COME",
+      "words": 3,
+      "chars": 15,
+      "lines": 1,
+      "size": 46.9,
+      "vw": 6.1,
+      "font": "Unbounded",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.8,
+      "top": 10818,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "RESERVE",
+      "words": 1,
+      "chars": 7,
+      "lines": 1,
+      "size": 129,
+      "vw": 16.8,
+      "font": "Unbounded",
+      "weight": 800,
+      "tracking": -0.04,
+      "leading": 0.8,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 11964,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "SEE YOU AT THE GATE",
+      "words": 5,
+      "chars": 19,
+      "lines": 2,
+      "size": 46.9,
+      "vw": 6.1,
+      "font": "Unbounded",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.55,
+      "top": 12187,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "SPLASHDOWN",
+      "words": 1,
+      "chars": 10,
+      "lines": 1,
+      "size": 207.4,
+      "vw": 27,
+      "font": "Unbounded",
+      "weight": 800,
+      "tracking": -0.04,
+      "leading": 0.8,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.97,
+      "top": 12999,
+      "tag": "p",
+      "kind": "statement"
+     }
+    ],
+    "headingSummary": {
+     "count": 10,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 2,
+     "centered": 0,
+     "medianWords": 3,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Onest",
+       "share": 0.94,
+       "mono": false
+      },
+      {
+       "family": "Unbounded",
+       "share": 0.06,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      15,
+      17,
+      18,
+      22,
+      47,
+      69,
+      129,
+      207
+     ],
+     "sizeCount": 8,
+     "notLoaded": [],
+     "body": {
+      "font": "Onest",
+      "size": 17,
+      "leading": 1.5,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 9.1
+     },
+     "measureChars": 57,
+     "max": {
+      "size": 207.4,
+      "vw": 27,
+      "font": "Unbounded",
+      "text": "SplashDown"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.06,
+     "centerShare": 0.01,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#0b1d3a",
+     "bodyBgHsl": {
+      "h": 217,
+      "s": 0.68,
+      "l": 0.14
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#0b1d3a",
+       "top": 0,
+       "hsl": {
+        "h": 217,
+        "s": 0.68,
+        "l": 0.14
+       }
+      },
+      {
+       "color": "#2ec4e6",
+       "top": 2112,
+       "hsl": {
+        "h": 191,
+        "s": 0.79,
+        "l": 0.54
+       }
+      },
+      {
+       "color": "#1f5fbf",
+       "top": 3534,
+       "hsl": {
+        "h": 216,
+        "s": 0.72,
+        "l": 0.44
+       }
+      },
+      {
+       "color": "#ffd23f",
+       "top": 3534,
+       "hsl": {
+        "h": 46,
+        "s": 1,
+        "l": 0.62
+       }
+      },
+      {
+       "color": "#8dd85a",
+       "top": 3534,
+       "hsl": {
+        "h": 96,
+        "s": 0.62,
+        "l": 0.6
+       }
+      },
+      {
+       "color": "#e9eef1",
+       "top": 3534,
+       "hsl": {
+        "h": 202,
+        "s": 0.22,
+        "l": 0.93
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#0b1d3a",
+       "share": 0.52
+      },
+      {
+       "color": "#f2f5f7",
+       "share": 0.22
+      },
+      {
+       "color": "#b4c0d2",
+       "share": 0.13
+      },
+      {
+       "color": "#062135",
+       "share": 0.09
+      },
+      {
+       "color": "#ffd23f",
+       "share": 0.03
+      }
+     ],
+     "button": {
+      "bg": "#ffd23f",
+      "hsl": {
+       "h": 46,
+       "s": 1,
+       "l": 0.62
+      },
+      "fg": "#0b1d3a"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 7,
+     "inHero": 2,
+     "radius": 0,
+     "height": 44,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to tickets",
+      "Check your ticket price"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 11,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 6,
+       "iconTopped": false,
+       "rounded": false,
+       "top": 3534
+      }
+     ]
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.24
+     }
+    ],
+    "nav": {
+     "links": 0,
+     "fixed": false,
+     "height": 2048,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "onest",
+     "unbounded"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 13115,
+    "margins": {
+     "left": 16,
+     "right": 16
+    },
+    "sections": [
+     {
+      "sel": "div.ride__pin",
+      "tag": "div",
+      "top": 0,
+      "height": 2048,
+      "words": 2,
+      "media": 0,
+      "middle": 104,
+      "heading": {
+       "text": "Splash",
+       "size": 69,
+       "tag": "h1"
+      },
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 16,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": true
+     },
+     {
+      "sel": "section.ride__panel.ride__panel--open",
+      "tag": "section",
+      "top": 0,
+      "height": 1024,
+      "words": 42,
+      "media": 1,
+      "middle": 98,
+      "heading": null,
+      "left": 79,
+      "right": 0,
+      "textLeft": 79,
+      "textRight": 283,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.ride__panel.ride__panel--photo",
+      "tag": "section",
+      "top": 1024,
+      "height": 1024,
+      "words": 9,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 30,
+      "right": 459,
+      "textLeft": 30,
+      "textRight": 459,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#tickets.tickets",
+      "tag": "section",
+      "top": 2112,
+      "height": 1190,
+      "words": 112,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Priced by how tall you are",
+       "size": 47,
+       "tag": "h2"
+      },
+      "left": 16,
+      "right": 48,
+      "textLeft": 16,
+      "textRight": 48,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#rides.rides",
+      "tag": "section",
+      "top": 3302,
+      "height": 2458,
+      "words": 86,
+      "media": 6,
+      "middle": 2233,
+      "heading": {
+       "text": "Pick your way down",
+       "size": 47,
+       "tag": "h2"
+      },
+      "left": 16,
+      "right": 0,
+      "textLeft": 16,
+      "textRight": -2522,
+      "fullBleed": true,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": true
+     },
+     {
+      "sel": "div.day__intro",
+      "tag": "div",
+      "top": 5879,
+      "height": 245,
+      "words": 33,
+      "media": 0,
+      "middle": 175,
+      "heading": {
+       "text": "Noon to six",
+       "size": 47,
+       "tag": "h2"
+      },
+      "left": 16,
+      "right": 95,
+      "textLeft": 16,
+      "textRight": 95,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.day__seq",
+      "tag": "div",
+      "top": 6124,
+      "height": 3072,
+      "words": 30,
+      "media": 3,
+      "middle": 0,
+      "heading": null,
+      "left": 30,
+      "right": 389,
+      "textLeft": 30,
+      "textRight": 389,
+      "fullBleed": true,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": true
+     },
+     {
+      "sel": "section#food.food",
+      "tag": "section",
+      "top": 9196,
+      "height": 1470,
+      "words": 119,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Lunch poolside",
+       "size": 47,
+       "tag": "h2"
+      },
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 16,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.faq",
+      "tag": "section",
+      "top": 10666,
+      "height": 811,
+      "words": 189,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Before you come",
+       "size": 47,
+       "tag": "h2"
+      },
+      "left": 16,
+      "right": 19,
+      "textLeft": 16,
+      "textRight": 19,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "a#parties.reserve",
+      "tag": "a",
+      "top": 11477,
+      "height": 614,
+      "words": 19,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 29,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.close",
+      "tag": "footer",
+      "top": 12091,
+      "height": 1024,
+      "words": 62,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "See you at the gate",
+       "size": 47,
+       "tag": "h2"
+      },
+      "left": 16,
+      "right": 23,
+      "textLeft": 16,
+      "textRight": 23,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "SPLASH DOWN",
+      "size": 69,
+      "top": 0,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 16,
+      "n": 8
+     },
+     {
+      "x": 268,
+      "n": 6
+     },
+     {
+      "x": 45,
+      "n": 1
+     },
+     {
+      "x": 56,
+      "n": 1
+     },
+     {
+      "x": 79,
+      "n": 1
+     },
+     {
+      "x": 99,
+      "n": 1
+     },
+     {
+      "x": 457,
+      "n": 1
+     },
+     {
+      "x": 467,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 20,
+    "bodySize": 17,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 12,
+   "filled": [
+    0.71,
+    0.94,
+    0.74,
+    0.93,
+    0.88,
+    0.86,
+    0.91,
+    0.84,
+    0.98,
+    0.98,
+    0.59,
+    0.25
+   ],
+   "motion": {
+    "elements": 30,
+    "css": 30,
+    "transitions": 0,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 12786,
+     "screens": 15.1,
+     "words": 545,
+     "img": 12,
+     "video": 0,
+     "canvas": 0,
+     "svg": 1,
+     "sections": 7,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 11,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "WaterslideGirl.jpg",
+      "Waterslides.jpg",
+      "SDWP.jpg",
+      "Waterslides.jpg",
+      "WaterslideGirl.jpg",
+      "KidsPlaying.jpeg",
+      "LazyRiver.jpg",
+      "SplashPad.jpg"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "SPLASH DOWN",
+     "words": 2,
+     "chars": 11,
+     "lines": 2,
+     "size": 70.2,
+     "vw": 18,
+     "font": "Unbounded",
+     "weight": 800,
+     "tracking": -0.03,
+     "leading": 0.85,
+     "upper": true,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 1,
+     "top": 0,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "SPLASH DOWN",
+     "words": 2,
+     "lines": 2,
+     "size": 70.2,
+     "font": "Unbounded"
+    },
+    "headings": [
+     {
+      "text": "SPLASH DOWN",
+      "words": 2,
+      "chars": 11,
+      "lines": 2,
+      "size": 70.2,
+      "vw": 18,
+      "font": "Unbounded",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 0.85,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 1,
+      "top": 0,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "PRICED BY HOW TALL YOU ARE",
+      "words": 6,
+      "chars": 26,
+      "lines": 2,
+      "size": 36,
+      "vw": 9.2,
+      "font": "Unbounded",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 1852,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "$20",
+      "words": 1,
+      "chars": 3,
+      "lines": 1,
+      "size": 50.7,
+      "vw": 13,
+      "font": "Unbounded",
+      "weight": 800,
+      "tracking": -0.04,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.32,
+      "top": 2144,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "DAY TICKET, OVER 48″",
+      "words": 4,
+      "chars": 20,
+      "lines": 2,
+      "size": 35.1,
+      "vw": 9,
+      "font": "Unbounded",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1.1,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.82,
+      "top": 2335,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "PICK YOUR WAY DOWN",
+      "words": 4,
+      "chars": 18,
+      "lines": 2,
+      "size": 35.1,
+      "vw": 9,
+      "font": "Unbounded",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 3142,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "PIPELINE TOWER",
+      "words": 2,
+      "chars": 14,
+      "lines": 1,
+      "size": 26,
+      "vw": 6.7,
+      "font": "Unbounded",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1.05,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.69,
+      "top": 3910,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "CANNONBALL",
+      "words": 1,
+      "chars": 10,
+      "lines": 1,
+      "size": 26,
+      "vw": 6.7,
+      "font": "Unbounded",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1.05,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.59,
+      "top": 4163,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "TROPICAL TWISTER",
+      "words": 2,
+      "chars": 16,
+      "lines": 2,
+      "size": 26,
+      "vw": 6.7,
+      "font": "Unbounded",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1.05,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.77,
+      "top": 4600,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "LOG WALK",
+      "words": 2,
+      "chars": 8,
+      "lines": 1,
+      "size": 26,
+      "vw": 6.7,
+      "font": "Unbounded",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1.05,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.44,
+      "top": 5064,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "LAZY RIVER",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 26,
+      "vw": 6.7,
+      "font": "Unbounded",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1.05,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.48,
+      "top": 5501,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "KIDS' COVE",
+      "words": 2,
+      "chars": 10,
+      "lines": 1,
+      "size": 26,
+      "vw": 6.7,
+      "font": "Unbounded",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1.05,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.46,
+      "top": 5938,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "NOON TO SIX",
+      "words": 3,
+      "chars": 11,
+      "lines": 1,
+      "size": 36,
+      "vw": 9.2,
+      "font": "Unbounded",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 6352,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "LUNCH POOLSIDE",
+      "words": 2,
+      "chars": 14,
+      "lines": 2,
+      "size": 36,
+      "vw": 9.2,
+      "font": "Unbounded",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 9012,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Smashburger with fries",
+      "words": 3,
+      "chars": 22,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Onest",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.71,
+      "top": 9174,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "$11.50",
+      "words": 1,
+      "chars": 6,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Onest",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "right",
+      "position": "right",
+      "widthRatio": 0.2,
+      "top": 9174,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "Chicken tenders with fries",
+      "words": 4,
+      "chars": 26,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Onest",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.71,
+      "top": 9246,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "$10.50",
+      "words": 1,
+      "chars": 6,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Onest",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "right",
+      "position": "right",
+      "widthRatio": 0.2,
+      "top": 9246,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "Walking Taco Nachos",
+      "words": 3,
+      "chars": 19,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Onest",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.75,
+      "top": 9318,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "$9.00",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Onest",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "right",
+      "position": "right",
+      "widthRatio": 0.17,
+      "top": 9318,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "Cheese slice",
+      "words": 2,
+      "chars": 12,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Onest",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.75,
+      "top": 9512,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "$5.00",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Onest",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "right",
+      "position": "right",
+      "widthRatio": 0.17,
+      "top": 9512,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "Whole 16″ pizza",
+      "words": 3,
+      "chars": 15,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Onest",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.71,
+      "top": 9584,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "$24.00",
+      "words": 1,
+      "chars": 6,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Onest",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "right",
+      "position": "right",
+      "widthRatio": 0.2,
+      "top": 9584,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "Ten wings",
+      "words": 2,
+      "chars": 9,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Onest",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.71,
+      "top": 9656,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "$13.00",
+      "words": 1,
+      "chars": 6,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Onest",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "right",
+      "position": "right",
+      "widthRatio": 0.2,
+      "top": 9656,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "Strawberry-banana smoothie",
+      "words": 2,
+      "chars": 26,
+      "lines": 2,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Onest",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.75,
+      "top": 9850,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "$7.00",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Onest",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "right",
+      "position": "right",
+      "widthRatio": 0.17,
+      "top": 9850,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "Fresh fruit bowl",
+      "words": 3,
+      "chars": 16,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Onest",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.75,
+      "top": 9955,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "$6.50",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Onest",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "right",
+      "position": "right",
+      "widthRatio": 0.17,
+      "top": 9955,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "Philly or pulled-pork melt",
+      "words": 4,
+      "chars": 26,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Onest",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.71,
+      "top": 10149,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "$10.00",
+      "words": 1,
+      "chars": 6,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Onest",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "right",
+      "position": "right",
+      "widthRatio": 0.2,
+      "top": 10149,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "Soft pretzel",
+      "words": 2,
+      "chars": 12,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Onest",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.75,
+      "top": 10221,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "$5.00",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Onest",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "right",
+      "position": "right",
+      "widthRatio": 0.17,
+      "top": 10221,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "ICEE",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Onest",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.75,
+      "top": 10293,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "$4.50",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Onest",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "right",
+      "position": "right",
+      "widthRatio": 0.17,
+      "top": 10293,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "BEFORE YOU COME",
+      "words": 3,
+      "chars": 15,
+      "lines": 2,
+      "size": 39,
+      "vw": 10,
+      "font": "Unbounded",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 10728,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "BOOK",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 117,
+      "vw": 30,
+      "font": "Unbounded",
+      "weight": 800,
+      "tracking": -0.04,
+      "leading": 0.8,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 11654,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "SEE YOU AT THE GATE",
+      "words": 5,
+      "chars": 19,
+      "lines": 2,
+      "size": 42.9,
+      "vw": 11,
+      "font": "Unbounded",
+      "weight": 800,
+      "tracking": -0.03,
+      "leading": 1,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 11868,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "SPLASHDOWN",
+      "words": 1,
+      "chars": 10,
+      "lines": 1,
+      "size": 132.6,
+      "vw": 34,
+      "font": "Unbounded",
+      "weight": 800,
+      "tracking": -0.04,
+      "leading": 0.8,
+      "upper": true,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.93,
+      "top": 12711,
+      "tag": "p",
+      "kind": "statement"
+     }
+    ],
+    "headingSummary": {
+     "count": 39,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 25,
+     "centered": 0,
+     "medianWords": 2,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Onest",
+       "share": 0.94,
+       "mono": false
+      },
+      {
+       "family": "Unbounded",
+       "share": 0.06,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      13,
+      14,
+      15,
+      17,
+      18,
+      19,
+      20,
+      22,
+      26,
+      35,
+      36,
+      39,
+      43,
+      51,
+      70,
+      117,
+      133
+     ],
+     "sizeCount": 17,
+     "notLoaded": [],
+     "body": {
+      "font": "Onest",
+      "size": 17,
+      "leading": 1.5,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 9.1
+     },
+     "measureChars": 42,
+     "max": {
+      "size": 132.6,
+      "vw": 34,
+      "font": "Unbounded",
+      "text": "SplashDown"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.06,
+     "centerShare": 0.01,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#0b1d3a",
+     "bodyBgHsl": {
+      "h": 217,
+      "s": 0.68,
+      "l": 0.14
+     },
+     "dark": true,
+     "sectionBgs": [
+      {
+       "color": "#0b1d3a",
+       "top": 0,
+       "hsl": {
+        "h": 217,
+        "s": 0.68,
+        "l": 0.14
+       }
+      },
+      {
+       "color": "#2ec4e6",
+       "top": 1700,
+       "hsl": {
+        "h": 191,
+        "s": 0.79,
+        "l": 0.54
+       }
+      },
+      {
+       "color": "#1f5fbf",
+       "top": 3614,
+       "hsl": {
+        "h": 216,
+        "s": 0.72,
+        "l": 0.44
+       }
+      },
+      {
+       "color": "#8dd85a",
+       "top": 4768,
+       "hsl": {
+        "h": 96,
+        "s": 0.62,
+        "l": 0.6
+       }
+      },
+      {
+       "color": "#e9eef1",
+       "top": 5205,
+       "hsl": {
+        "h": 202,
+        "s": 0.22,
+        "l": 0.93
+       }
+      },
+      {
+       "color": "#ffd23f",
+       "top": 11383,
+       "hsl": {
+        "h": 46,
+        "s": 1,
+        "l": 0.62
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#0b1d3a",
+       "share": 0.53
+      },
+      {
+       "color": "#f2f5f7",
+       "share": 0.22
+      },
+      {
+       "color": "#b4c0d2",
+       "share": 0.11
+      },
+      {
+       "color": "#062135",
+       "share": 0.09
+      },
+      {
+       "color": "#ffd23f",
+       "share": 0.03
+      }
+     ],
+     "button": {
+      "bg": "#ffd23f",
+      "hsl": {
+       "h": 46,
+       "s": 1,
+       "l": 0.62
+      },
+      "fg": "#0b1d3a"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 7,
+     "inHero": 2,
+     "radius": 0,
+     "height": 44,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to tickets",
+      "Check your ticket price"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 12,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.3
+     }
+    ],
+    "nav": {
+     "links": 0,
+     "fixed": false,
+     "height": 1636,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "onest",
+     "unbounded"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 12786,
+    "margins": {
+     "left": 16,
+     "right": 16
+    },
+    "sections": [
+     {
+      "sel": "div.ride__pin",
+      "tag": "div",
+      "top": 0,
+      "height": 155,
+      "words": 2,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Splash",
+       "size": 70,
+       "tag": "h1"
+      },
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 16,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.ride__panel.ride__panel--open",
+      "tag": "section",
+      "top": 155,
+      "height": 873,
+      "words": 42,
+      "media": 1,
+      "middle": 0,
+      "heading": null,
+      "left": 16,
+      "right": 24,
+      "textLeft": 16,
+      "textRight": 24,
+      "fullBleed": true,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.ride__panel.ride__panel--photo",
+      "tag": "section",
+      "top": 1029,
+      "height": 608,
+      "words": 9,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 30,
+      "right": 81,
+      "textLeft": 30,
+      "textRight": 81,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#tickets.tickets",
+      "tag": "section",
+      "top": 1700,
+      "height": 1402,
+      "words": 112,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "$20",
+       "size": 51,
+       "tag": "span"
+      },
+      "left": 16,
+      "right": 21,
+      "textLeft": 16,
+      "textRight": 21,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#rides.rides",
+      "tag": "section",
+      "top": 3102,
+      "height": 3097,
+      "words": 86,
+      "media": 6,
+      "middle": 0,
+      "heading": {
+       "text": "Pick your way down",
+       "size": 35,
+       "tag": "h2"
+      },
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 36,
+      "fullBleed": true,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.day__intro",
+      "tag": "div",
+      "top": 6320,
+      "height": 313,
+      "words": 33,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Noon to six",
+       "size": 36,
+       "tag": "h2"
+      },
+      "left": 16,
+      "right": 89,
+      "textLeft": 16,
+      "textRight": 89,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.day__seq",
+      "tag": "div",
+      "top": 6632,
+      "height": 2228,
+      "words": 30,
+      "media": 3,
+      "middle": 0,
+      "heading": null,
+      "left": 30,
+      "right": 27,
+      "textLeft": 30,
+      "textRight": 27,
+      "fullBleed": true,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": true
+     },
+     {
+      "sel": "section#food.food",
+      "tag": "section",
+      "top": 8860,
+      "height": 1716,
+      "words": 107,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Lunch poolside",
+       "size": 36,
+       "tag": "h2"
+      },
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 16,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.faq",
+      "tag": "section",
+      "top": 10576,
+      "height": 807,
+      "words": 189,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Before you come",
+       "size": 39,
+       "tag": "h2"
+      },
+      "left": 16,
+      "right": 18,
+      "textLeft": 16,
+      "textRight": 18,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "a#parties.reserve",
+      "tag": "a",
+      "top": 11383,
+      "height": 388,
+      "words": 20,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Book",
+       "size": 117,
+       "tag": "span"
+      },
+      "left": 16,
+      "right": 115,
+      "textLeft": 16,
+      "textRight": -42,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.close",
+      "tag": "footer",
+      "top": 11772,
+      "height": 1014,
+      "words": 62,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "See you at the gate",
+       "size": 43,
+       "tag": "h2"
+      },
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 18,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "SPLASH DOWN",
+      "size": 70,
+      "top": 0,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 16,
+      "n": 17
+     },
+     {
+      "x": 36,
+      "n": 2
+     },
+     {
+      "x": 85,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 20,
+    "bodySize": 17,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "WARN",
+   "id": "no-footage",
+   "width": 1440,
+   "message": "No video anywhere on the page.",
+   "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  },
+  {
+   "level": "WARN",
+   "id": "pinned-over-picture",
+   "width": 1440,
+   "message": "Pinned large text slides across pictures while the page scrolls: \"DOWN\" (screen 2, 100% over a picture); \"SPLASH\" (screen 2, 100% over a picture); \"PICK YOUR WAY DOWN\" (screen 4, 100% over a picture)",
+   "fix": "Jurors read a pinned title crossing drawings or photographs as a collision. Keep the pictures in the column the title does not occupy, or unpin it.",
+   "alsoAt": [
+    768
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "long-pin",
+   "width": 1440,
+   "message": "The same large text stays on screen for 3 screens in a row: \"PICK YOUR WAY DOWN\"",
+   "fix": "A pinned element earns two screens, and something must change at each. Shorten the run or give every screen its own content."
+  },
+  {
+   "level": "WARN",
+   "id": "size-count",
+   "width": 390,
+   "message": "17 different font sizes (13, 14, 15, 17, 18, 19, 20, 22, 26, 35, 36, 39, 43, 51, 70, 117, 133).",
+   "fix": "A page needs about five: display, heading, lead, body, small."
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "/Users/vladshchuka/Desktop/DevComStudio/Portfolio/2-Approved/001-splashdown/design/site/.taste-skill/inspect/desktop-fold.jpg",
+   "pages": [
+    "/Users/vladshchuka/Desktop/DevComStudio/Portfolio/2-Approved/001-splashdown/design/site/.taste-skill/inspect/desktop-page-01.jpg",
+    "/Users/vladshchuka/Desktop/DevComStudio/Portfolio/2-Approved/001-splashdown/design/site/.taste-skill/inspect/desktop-page-02.jpg",
+    "/Users/vladshchuka/Desktop/DevComStudio/Portfolio/2-Approved/001-splashdown/design/site/.taste-skill/inspect/desktop-page-03.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "/Users/vladshchuka/Desktop/DevComStudio/Portfolio/2-Approved/001-splashdown/design/site/.taste-skill/inspect/tablet-fold.jpg",
+   "pages": [
+    "/Users/vladshchuka/Desktop/DevComStudio/Portfolio/2-Approved/001-splashdown/design/site/.taste-skill/inspect/tablet-page-01.jpg",
+    "/Users/vladshchuka/Desktop/DevComStudio/Portfolio/2-Approved/001-splashdown/design/site/.taste-skill/inspect/tablet-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "/Users/vladshchuka/Desktop/DevComStudio/Portfolio/2-Approved/001-splashdown/design/site/.taste-skill/inspect/mobile-fold.jpg",
+   "pages": [
+    "/Users/vladshchuka/Desktop/DevComStudio/Portfolio/2-Approved/001-splashdown/design/site/.taste-skill/inspect/mobile-page-01.jpg",
+    "/Users/vladshchuka/Desktop/DevComStudio/Portfolio/2-Approved/001-splashdown/design/site/.taste-skill/inspect/mobile-page-02.jpg"
+   ],
+   "film": []
+  }
+ ]
+}

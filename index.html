@@ -1,0 +1,287 @@
+<!doctype html>
+<html lang="en" class="no-js">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>SplashDown Waterpark · Manassas, Virginia</title>
+<meta name="description" content="Northern Virginia's largest waterpark: four-story slides, a lazy river and a kids' cove in Ben Lomond Park, Manassas. Tickets priced by height, from $15.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght,SOFT@9..144,600..900,0..100&family=Figtree:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="icon" href="logo/original.svg" type="image/svg+xml">
+<link rel="stylesheet" href="site.css?v=20261020e">
+</head>
+<body>
+<a class="skip" href="#tickets">Skip to tickets</a>
+
+
+<!-- ============ TOP: one bar from the first second: the logo, the way round, the status, the ticket ============ -->
+<header class="top" id="top">
+  <a class="top__mark" href="#top"><img src="logo/original-reversed.svg" alt="SplashDown Waterpark, back to the top" width="44" height="43"></a>
+  <nav class="top__links" aria-label="Main">
+    <a href="#rides">Park map</a><a href="#tickets">Tickets</a><a href="#food">Food</a><a href="#parties">Parties</a><a href="#faq">FAQ</a>
+  </nav>
+  <p class="top__status"><span class="dot" aria-hidden="true"></span>Opens Memorial Day weekend 2027</p>
+  <a class="top__buy" href="https://parksandrec.pwcgov.org/webtrac/web/search.html?display=detail&amp;module=PST&amp;Category=Splashdown" target="_blank" rel="noopener">Buy tickets</a>
+</header>
+
+<main>
+<!-- ============ MAP: the park as a model, lit by the rider's height; the tour is the content ============ -->
+<section class="map" id="rides" data-map aria-label="Park map">
+  <div class="map__stage">
+    <canvas class="map__canvas" aria-hidden="true"></canvas>
+    <div class="map__pins"></div>
+    <div class="map__height" role="group" aria-label="Rider height">
+      <span class="map__height-label">Rider</span>
+      <button type="button" class="map__step" data-height-step="-1" aria-label="One inch shorter">−</button>
+      <output class="map__height-value" data-height-value aria-live="polite">52″</output>
+      <button type="button" class="map__step" data-height-step="1" aria-label="One inch taller">+</button>
+    </div>
+  </div>
+
+  <div class="map__tour">
+    <article class="stop stop--hero" data-stop data-focus="tower lagoon kahuna island" data-distance="285" data-az="-0.5" data-el="0.8" data-pins="ride">
+      <h1 id="map-title" class="hero__title">Northern Virginia's largest waterpark</h1>
+      <p class="hero__lead">Slides four stories tall, a lazy river and a kids' cove in Ben Lomond Park, Manassas. Tickets from $15, priced by height.</p>
+      <label class="stop__range">
+        <span>How tall is your rider? <output data-height-value>52″</output></span>
+        <input class="ruler__input" type="range" min="28" max="76" step="1" value="52" data-height-range>
+      </label>
+      <p class="hero__fit" data-fit-summary aria-live="polite"></p>
+      <div class="hero__actions">
+        <a class="btn" href="#tickets">Check your ticket price</a>
+        <a class="link" href="#tour">Take the tour <span aria-hidden="true">↓</span></a>
+      </div>
+    </article>
+
+    <article class="stop" id="tour" data-stop data-focus="tower" data-distance="44">
+      <img src="img/Waterslides.jpg" alt="The tube slides of Pipeline Tower rising four stories over the main pool" width="1000" height="667" loading="lazy">
+      <h3>Pipeline Tower</h3>
+      <p class="stop__fit" data-fit="tower">48″ and taller.</p>
+      <p>Two enclosed tubes from four stories up, one fast and one twisting.</p>
+      <p class="stop__near" data-near="tower"></p>
+      <button type="button" class="btn btn--ghost" data-preview>Preview the ride</button>
+    </article>
+
+    <article class="stop" data-stop data-focus="cannonball" data-distance="40" data-az="0.7">
+      <h3>Cannonball</h3>
+      <p class="stop__fit" data-fit="cannonball">48″ and taller.</p>
+      <p>Short, steep and over before you can scream. Lands in its own run-out pool.</p>
+      <p class="stop__near" data-near="cannonball"></p>
+    </article>
+
+    <article class="stop" data-stop data-focus="twister" data-distance="40" data-az="-0.2">
+      <img src="img/WaterslideGirl.jpg" alt="A rider in a tube on the open blue slide" width="1000" height="568" loading="lazy">
+      <h3>Tropical Twister</h3>
+      <p class="stop__fit" data-fit="twister">42″ and taller.</p>
+      <p>Open turns with the whole park in view, down into the activity pool.</p>
+      <p class="stop__near" data-near="twister"></p>
+    </article>
+
+    <article class="stop" data-stop data-focus="kids" data-distance="40" data-az="0.1">
+      <img src="img/SplashPad.jpg" alt="Toddlers splashing in the zero-depth kids' area under big blue umbrellas" width="1000" height="667" loading="lazy">
+      <h3>Kids' Cove</h3>
+      <p class="stop__fit" data-fit="kids">Under 48″.</p>
+      <p>Zero-depth water, bubblers and four small slides. Life vests in every size.</p>
+      <p class="stop__near" data-near="kids"></p>
+    </article>
+
+    <article class="stop" data-stop data-focus="logwalk lily" data-distance="42" data-az="-0.1">
+      <img src="img/KidsPlaying.jpeg" alt="Kids in life vests crossing the floating logs under a cargo net" width="1024" height="683" loading="lazy">
+      <h3>Log Walk and Lily Pad Crossing</h3>
+      <p class="stop__fit" data-fit="logwalk">Any height.</p>
+      <p>Floating logs, a net overhead, a lot of falling in. Vests on.</p>
+      <p class="stop__near" data-near="logwalk"></p>
+    </article>
+
+    <article class="stop" data-stop data-focus="lazy lagoon" data-distance="105" data-az="0.45">
+      <img src="img/LazyRiver.jpg" alt="The lazy river curving past blue umbrellas and a wooden fence" width="1000" height="576" loading="lazy">
+      <h3>Lazy River and Lagoon</h3>
+      <p class="stop__fit" data-fit="lazy">Any height.</p>
+      <p>Grab a tube and drift a full loop round the island. The lagoon sits inside the bend.</p>
+      <p class="stop__near" data-near="lazy"></p>
+    </article>
+
+    <article class="stop" data-stop data-focus="coney beach surf" data-distance="210" data-pins="food" data-el="0.8">
+      <h3>Where to eat</h3>
+      <ul class="stop__list">
+        <li><button type="button" class="stop__pick" data-goto="surf">Surf Side Express</button> Hot melts, pretzels and ICEE, with Paradise Pizza and Dippin' Dots next door.</li>
+        <li><button type="button" class="stop__pick" data-goto="coney">Coney Island Cafe</button> Smashburgers and tenders, by the main entrance.</li>
+        <li><button type="button" class="stop__pick" data-goto="beach">Beach Break</button> Smoothies and fruit bowls, on the way to the lazy river.</li>
+      </ul>
+      <a class="link" href="#food">The full menu</a>
+    </article>
+
+    <article class="stop" id="parties" data-stop data-focus="teal banana kahuna coconut island coral shrimp diggers" data-distance="330" data-pins="pavilion" data-el="0.8">
+      <img src="img/ReservedArea.jpg" alt="A Reserved for a private party sign by picnic tables under blue umbrellas and balloons" width="836" height="1254" loading="lazy">
+      <h3>Pick a pavilion</h3>
+      <p>Pick one on the map or here, and the request goes in with its name on it.</p>
+      <div class="stop__pavilions" role="group" aria-label="Pavilions">
+        <button type="button" class="stop__pav" aria-pressed="false" data-pavilion="teal">Teal Seal <span>60 guests</span></button>
+        <button type="button" class="stop__pav" aria-pressed="false" data-pavilion="banana">Banana Cabana <span>150 guests</span></button>
+        <button type="button" class="stop__pav" aria-pressed="false" data-pavilion="kahuna">Big Kahuna Tent <span>300 guests</span></button>
+        <button type="button" class="stop__pav" aria-pressed="false" data-pavilion="coconut">Coconut Cove <span>Ask</span></button>
+        <button type="button" class="stop__pav" aria-pressed="false" data-pavilion="coral">Coral Reef <span>Ask</span></button>
+        <button type="button" class="stop__pav" aria-pressed="false" data-pavilion="shrimp">Shrimp Shack <span>Ask</span></button>
+        <button type="button" class="stop__pav" aria-pressed="false" data-pavilion="diggers">Digger's Dune <span>Ask</span></button>
+        <button type="button" class="stop__pav" aria-pressed="false" data-pavilion="island">Island Rentals <span>Ask</span></button>
+      </div>
+      <a class="btn" data-book href="mailto:CateringInfo@pwcgov.org?subject=Pavilion%20reservation%20at%20SplashDown">Ask for a pavilion</a>
+    </article>
+  </div>
+</section>
+
+
+<!-- ============ PRICING: the ticket, with the height ruler as the live thing ============ -->
+<section class="tickets" id="tickets" aria-labelledby="tickets-title">
+  <h2 id="tickets-title" class="tickets__title">Priced by how tall you are</h2>
+  <p class="tickets__lead">Stand your kid against the 48-inch line at the gate. Same rule here: slide to their height and see the price and the rides that fit.</p>
+
+  <div class="ticket" data-ticket>
+    <div class="ticket__main">
+      <p class="ticket__what" data-what>Day ticket, over 48″</p>
+
+      <div class="ruler" data-ruler>
+        <label class="ruler__label" for="height">Height <output data-height-out for="height">52″</output></label>
+        <input id="height" class="ruler__input" type="range" min="28" max="76" step="1" value="52" aria-describedby="ruler-note">
+        <div class="ruler__scale" aria-hidden="true">
+          <span style="--at:0">28″</span><span style="--at:.4167" class="is-line">48″</span><span style="--at:1">76″</span>
+        </div>
+        <p class="ruler__note" id="ruler-note" data-rides aria-live="polite">Rides every slide in the park, Pipeline Tower and Cannonball included.</p>
+      </div>
+
+      <div class="daytype" role="group" aria-label="Day of visit">
+        <button type="button" class="daytype__b" aria-pressed="false" data-day="weekday">Tue to Fri</button>
+        <button type="button" class="daytype__b" aria-pressed="true" data-day="weekend">Weekends and holidays</button>
+      </div>
+
+      <ul class="ticket__terms">
+        <li>Slides, pools and lazy river</li>
+        <li>Tubes and life vests included</li>
+        <li>Free parking</li>
+        <li>Online up to 3 days ahead; same day until 9 AM</li>
+      </ul>
+    </div>
+    <div class="ticket__stub">
+      <p class="ticket__price" aria-live="polite"><span data-price>$20</span></p>
+      <p class="ticket__per" data-per>per person</p>
+      <a class="ticket__buy" href="https://parksandrec.pwcgov.org/webtrac/web/search.html?display=detail&amp;module=PST&amp;Category=Splashdown" target="_blank" rel="noopener">Buy on the county site</a>
+    </div>
+    <span class="ticket__notch ticket__notch--top" aria-hidden="true"></span>
+    <span class="ticket__notch ticket__notch--bottom" aria-hidden="true"></span>
+  </div>
+
+  <p class="tickets__more">Seniors 60 and up pay the under-48″ price. Groups of 20 or more: $15 each, Tuesday to Friday. Kids 2 and under are free.</p>
+</section>
+
+
+<!-- ============ GALLERY: a day in three photographs, one row ============ -->
+<section class="day" aria-labelledby="day-title">
+  <div class="day__intro">
+    <h2 id="day-title" class="day__title">Noon to six</h2>
+    <p>Gates open at noon. Lifeguards on every pool. If there is lightning, everyone leaves the water for 30 minutes, and if we close before 4 PM you go home with a rain check.</p>
+  </div>
+  <div class="day__seq">
+    <figure class="day__frame"><img src="img/WaterPark.jpg" alt="Palm trees and green lily pads across the leisure pool" width="1000" height="668" loading="lazy"><figcaption>12:00 · The leisure pool, before anyone else is in it.</figcaption></figure>
+    <figure class="day__frame"><img src="img/LazyRiver.jpg" alt="The lazy river curving under blue umbrellas" width="1000" height="576" loading="lazy"><figcaption>2:30 · One more loop on the lazy river.</figcaption></figure>
+    <figure class="day__frame"><img src="img/KidsPlaying.jpeg" alt="Kids in life vests crossing the floating logs under a cargo net" width="1024" height="683" loading="lazy"><figcaption>4:00 · Last run across the logs before the whistle.</figcaption></figure>
+  </div>
+</section>
+
+<!-- ============ LIST: the food, one type size, like a menu board ============ -->
+<section class="food" id="food" aria-labelledby="food-title">
+  <h2 id="food-title" class="food__title">Lunch poolside</h2>
+  <div class="menu" role="table" aria-label="Food in the park">
+    <div class="menu__group" role="rowgroup">
+      <p class="menu__venue" role="row"><span role="columnheader">Coney Island</span><span class="menu__where" role="cell">By the main pool</span></p>
+      <p class="menu__row" role="row"><span role="cell">Smashburger with fries</span><span role="cell">Burgers</span><span role="cell">By the main pool</span><span role="cell">$11.50</span></p>
+      <p class="menu__row" role="row"><span role="cell">Chicken tenders with fries</span><span role="cell">Fried</span><span role="cell">By the main pool</span><span role="cell">$10.50</span></p>
+      <p class="menu__row" role="row"><span role="cell">Walking Taco Nachos</span><span role="cell">Snack</span><span role="cell">By the main pool</span><span role="cell">$9.00</span></p>
+    </div>
+    <div class="menu__group" role="rowgroup">
+      <p class="menu__venue" role="row"><span role="columnheader">Paradise Pizza</span><span class="menu__where" role="cell">Near the kids' cove</span></p>
+      <p class="menu__row" role="row"><span role="cell">Cheese slice</span><span role="cell">Pizza</span><span role="cell">Near the kids' cove</span><span role="cell">$5.00</span></p>
+      <p class="menu__row" role="row"><span role="cell">Whole 16″ pizza</span><span role="cell">Feeds four</span><span role="cell">Near the kids' cove</span><span role="cell">$24.00</span></p>
+      <p class="menu__row" role="row"><span role="cell">Ten wings</span><span role="cell">Wings</span><span role="cell">Near the kids' cove</span><span role="cell">$13.00</span></p>
+    </div>
+    <div class="menu__group" role="rowgroup">
+      <p class="menu__venue" role="row"><span role="columnheader">Beach Break</span><span class="menu__where" role="cell">Lazy river bridge</span></p>
+      <p class="menu__row" role="row"><span role="cell">Strawberry-banana smoothie</span><span role="cell">Cold</span><span role="cell">Lazy river bridge</span><span role="cell">$7.00</span></p>
+      <p class="menu__row" role="row"><span role="cell">Fresh fruit bowl</span><span role="cell">Fruit</span><span role="cell">Lazy river bridge</span><span role="cell">$6.50</span></p>
+    </div>
+    <div class="menu__group" role="rowgroup">
+      <p class="menu__venue" role="row"><span role="columnheader">Surfside Express</span><span class="menu__where" role="cell">Under the tower</span></p>
+      <p class="menu__row" role="row"><span role="cell">Philly or pulled-pork melt</span><span role="cell">Hot</span><span role="cell">Under the tower</span><span role="cell">$10.00</span></p>
+      <p class="menu__row" role="row"><span role="cell">Soft pretzel</span><span role="cell">Snack</span><span role="cell">Under the tower</span><span role="cell">$5.00</span></p>
+      <p class="menu__row" role="row"><span role="cell">ICEE</span><span role="cell">Frozen</span><span role="cell">Under the tower</span><span role="cell">$4.50</span></p>
+    </div>
+  </div>
+  <p class="food__note">Bring one sealed 20 oz water each. No outside food, except a birthday cake and baby food in plastic.</p>
+</section>
+
+<!-- ============ FAQ ============ -->
+<section class="faq" id="faq" aria-labelledby="faq-title">
+  <h2 id="faq-title" class="faq__title">Before you come</h2>
+  <div class="faq__list">
+    <details><summary>What happens when there's lightning?</summary><p>Everyone leaves the water when we see lightning or hear thunder. Pools reopen 30 minutes after the last strike or rumble. We may open late or close early for storms, rain or air under 70°F.</p></details>
+    <details><summary>Do you give rain checks?</summary><p>Yes, if the attractions close for more than an hour and the park closes before 4 PM. Pick up a return-visit voucher at the front gate. It's good for the rest of the season.</p></details>
+    <details><summary>Can my kid ride the big slides?</summary><p>Pipeline Tower and Cannonball need riders over 48″. Tropical Twister starts at 42″. The kids' cove slides are for riders under 48″, and every pool has life vests in all sizes.</p></details>
+    <details><summary>What should we wear?</summary><p>Swimwear in every pool. Rubber swim pants and swim diapers for little ones. Street clothes cloud the water and clog the filters.</p></details>
+    <details><summary>Is the park accessible?</summary><p>A concrete walkway runs through the whole park. Ask any team member at the gate about accessible entry and the pool lifts.</p></details>
+    <details><summary>Can we leave and come back?</summary><p>Yes. Get a hand stamp at the gate. Pavilion guests wear wristbands and skip the line, even when the park is full.</p></details>
+  </div>
+</section>
+
+
+</main>
+
+<!-- ============ FOOTER: one invitation, then what you need on the day ============ -->
+<footer class="foot">
+  <div class="foot__cta">
+    <h2 class="foot__title">See you at the gate.</h2>
+    <div class="foot__actions">
+      <a class="btn" href="https://parksandrec.pwcgov.org/webtrac/web/search.html?display=detail&amp;module=PST&amp;Category=Splashdown" target="_blank" rel="noopener">Buy tickets</a>
+      <a class="btn btn--ghost" href="#parties">Book a pavilion</a>
+    </div>
+  </div>
+  <div class="foot__grid">
+    <section class="foot__col" aria-labelledby="foot-visit">
+      <h3 id="foot-visit">Visit</h3>
+      <p>7500 Ben Lomond Park Dr.<br>Manassas, VA 20109</p>
+      <p>Free parking by the gate.</p>
+      <a class="foot__link" href="https://www.google.com/maps/search/?api=1&amp;query=SplashDown+Waterpark+7500+Ben+Lomond+Park+Dr+Manassas+VA" target="_blank" rel="noopener">Directions</a>
+    </section>
+    <section class="foot__col" aria-labelledby="foot-hours">
+      <h3 id="foot-hours">Hours</h3>
+      <p>Noon to six, every day in season.</p>
+      <p>Gates open again Memorial Day weekend 2027.</p>
+      <a class="foot__link" href="#faq">Storms and rain checks</a>
+    </section>
+    <section class="foot__col" aria-labelledby="foot-contact">
+      <h3 id="foot-contact">Contact</h3>
+      <a class="foot__link" href="tel:+17037928200">703-792-8200</a>
+      <a class="foot__link" href="mailto:CateringInfo@pwcgov.org">CateringInfo@pwcgov.org</a>
+      <a class="foot__link" href="https://www.facebook.com/SplashDownWaterpark">Facebook</a>
+    </section>
+    <nav class="foot__col" aria-labelledby="foot-park">
+      <h3 id="foot-park">In the park</h3>
+      <a class="foot__link" href="#rides">Park map</a>
+      <a class="foot__link" href="#tickets">Tickets</a>
+      <a class="foot__link" href="#food">Food</a>
+      <a class="foot__link" href="#parties">Pavilions</a>
+      <a class="foot__link" href="#faq">Before you come</a>
+    </nav>
+  </div>
+  <div class="foot__legal">
+    <img src="logo/original-reversed.svg" alt="SplashDown Waterpark logo" width="72" height="70" loading="lazy">
+    <p>Run by Prince William County Parks &amp; Recreation. Concept site by DevCom Studio.</p>
+    <a class="foot__link" href="#top">Back to the top</a>
+  </div>
+</footer>
+
+<script src="site.js?v=20261020e"></script>
+<script type="importmap">{ "imports": { "three": "https://cdn.jsdelivr.net/npm/three@0.185.0/build/three.module.min.js", "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.185.0/examples/jsm/" } }</script>
+<script type="module" src="map.js?v=20261020e"></script>
+</body>
+</html>
